@@ -19,4 +19,4 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-393939?style=flat&logo=firebase)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-393939?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-393939?style=flat&logo=visual-studio&logoColor=5C2D91)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-393939?style=flat&logo=visual-studio&logoColor=9059CE)
