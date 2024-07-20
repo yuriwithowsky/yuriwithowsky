@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m from São Paulo, Brazil and I currently working on Level Up Brasil.
+- 🔭 I’m from São Paulo, Brazil and I currently working on Conta Simples.
 
 ### Stacks
 
